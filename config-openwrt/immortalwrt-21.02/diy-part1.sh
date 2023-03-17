@@ -12,3 +12,4 @@
 # other
 # rm -rf package/emortal/{autosamba,ipv6-helper}
 
+sudo apt-get install clang -y
